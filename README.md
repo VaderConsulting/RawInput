@@ -18,6 +18,10 @@ This is a C# WinForms working copy of a WM_INPUT keyboard library (`RawInput_dll
 
 Open `RawStuff.sln` in Visual Studio 2012 or later (targeting .NET 4.5). Run the Keyboard project.
 
+## Requirements
+
+- Visual Studio 2012, .NET Framework 4.5
+
 ## Attribution and provenance
 
 From Dave Robinson's Historical Dev archive (OneDrive folder `RawInput`). Library assembly copyright HOME 2008; Keyboard demo copyright 2013. See `THIRD_PARTY_NOTICES.md`.
