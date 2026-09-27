@@ -24,6 +24,8 @@ Open `RawStuff.sln` in Visual Studio 2012 or later (targeting .NET 4.5). Run the
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder.
+
 From Dave Robinson's Historical Dev archive (OneDrive folder `RawInput`). Library assembly copyright HOME 2008; Keyboard demo copyright 2013. See `THIRD_PARTY_NOTICES.md`.
 
 ## License
