@@ -1,6 +1,6 @@
 # RawInput
 
-This is a C# WinForms working copy of a WM_INPUT keyboard library (`RawInput_dll`) plus a Keyboard demo host. The library registers for HID keyboard notifications, enumerates devices, and raises KeyPressed with handle, type, VKey, and press state. The Keyboard exe shows those fields on a form and writes DeviceAudit.txt. Assembly copyright is HOME 2008 on the library and 2013 on the demo. This is my Historical Dev copy, not original VaderConsulting code.
+This is a C# WinForms working copy of a WM_INPUT keyboard library (`RawInput_dll`) plus a Keyboard demo host. The library registers for HID keyboard notifications, enumerates devices, and raises KeyPressed with handle, type, VKey, and press state. The Keyboard exe shows those fields on a form and writes DeviceAudit.txt. Assembly copyright is HOME 2008 on the library and 2013 on the demo. This is my Historical Dev copy, not original Vader Consulting code.
 
 **Source last updated:** 2017-03-21  
 **Language:** C#  
@@ -30,4 +30,4 @@ From my Historical Dev archive (folder `RawInput`). Library assembly copyright H
 
 ## License
 
-Third-party RawInput sample terms as included. Catalogue/wrapper files MIT License. Copyright (c) 2026 VaderConsulting.
+Third-party RawInput sample terms as included. Catalogue/wrapper files MIT License. Copyright (c) 2026 Vader Consulting.
